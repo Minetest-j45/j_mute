@@ -1,22 +1,22 @@
- # Mute
+# Mute
 
----What this mod does---<br />
+## What this mod does
 This mod is used to moderate chat, if someone is spamming, you use /mute player-name and they wont be able to type in chat, then, when you think they have learnt a lesson, you use /unmute player-name, or , if you want to mute someone for a certain amount of time, use /mutesec player-name seconds, and it will automatically unmute them after the certain amount of time.
 
----License---<br />
+## License
 LGPL 2.1
 
----Dependencies---<br />
+## Dependencies
 Default
 
----Installation---<br />
+## Installation
 Go to Mute:v1.0 in minetest forums\/ and either use the github link and download or download the .zip attachment, then it should be in you download folder, from here you want to unzip it and move the unzipped version to /minetest/mods.
 put forum here
 
----Version---<br />
+## Version
 v1.0
 
----Special thanks---<br />
+## Special thanks
 Thanks to:<br />
 yayyer: the idea for this mod<br />
 discord: yayyer#5489<br />
@@ -27,5 +27,5 @@ Fleckenstein: help programming<br />
 shoutout: https://elidragon.com/member/Fleckenstein<br />
 quote: "trees are green"<br />
 
----Contact---<br />
-To contact me, message me on discord, my name and hashtag is: j45#7171
+## Contact
+To contact me, message me on discord: j45#7171
