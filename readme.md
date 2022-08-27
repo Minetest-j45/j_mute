@@ -1,7 +1,4 @@
 # j_mute
-
-
-
 [![ContentDB](https://content.minetest.net/packages/j45/j_mute/shields/title/)](https://content.minetest.net/packages/j45/j_mute/)
 [![ContentDB](https://content.minetest.net/packages/j45/j_mute/shields/downloads/)](https://content.minetest.net/packages/j45/j_mute/)
 
@@ -10,9 +7,6 @@ This mod is used to moderate chat, if someone is spamming, you use /mute player-
 
 ## License
 LGPL 2.1
-
-## Dependencies
-Default
 
 ## Installation
 Go to Mute:v1.0 in minetest forums\/ and either use the github link and download or download the .zip attachment, then it should be in you download folder, from here you want to unzip it and move the unzipped version to /minetest/mods.
